@@ -1,1 +1,1 @@
-# -crono_dreambox900auto10
+# crono_dreambox FW9.00 Auto V10
